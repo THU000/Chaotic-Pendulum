@@ -1,0 +1,3 @@
+doublePendulum.m      为无阻尼双摆模拟
+dampedDoublePendulum.m   为考虑空气阻尼的双摆模拟
+test.m    测试和DeBug
